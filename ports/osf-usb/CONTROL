@@ -1,5 +1,0 @@
-Source: osf-usb
-Version: 0.0.1
-Homepage: https://github.com/skunkforce/usb
-Description: C++17 wrapper around libusb
-Build-Depends: osf-tmp, osf-sum-type, libusb

@@ -1,0 +1,5 @@
+Source: osf-sum-type
+Version: 0.0.0
+Homepage: https://github.com/skunkforce/sum_type
+Description: C++17 ergonomic composable visitation interfaces for sum types
+Build-Depends: osf-tmp
