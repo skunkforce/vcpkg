@@ -1,0 +1,5 @@
+Source: osf-ftmp
+Version: 0.0.1
+Homepage: https://github.com/skunkforce/ftmp
+Description: C++14 Fusion Template Metaprogramming library using a tacit style interface
+Build-Depends: osf-tmp, osf-product-type

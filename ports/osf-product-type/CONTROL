@@ -1,0 +1,5 @@
+Source: osf-product-type
+Version: 0.0.1
+Homepage: https://github.com/skunkforce/product_type
+Description: tuple like library optimized for small/efficient debug builds
+Build-Depends: osf-tmp

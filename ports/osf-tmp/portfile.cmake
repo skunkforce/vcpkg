@@ -2,8 +2,8 @@ include(vcpkg_common_functions)
 vcpkg_from_github(
     OUT_SOURCE_PATH SOURCE_PATH
     REPO skunkforce/tmp
-    REF bef0b95319d8d93e8592a422da3a4939303685ab
-    SHA512 3b67ceed6c506602afbdaaaf23dd90a41fd9faee2a327330acfb51840bdbb71d52a5496fb6dc436e2c4a8a3bc2b4b3c3b9850ceb6f6207fa75dca99897595443
+    REF 0296f33d0e67006dd7b266a6dbde96d6201d752b
+    SHA512 df0eb2c9c86dd30398eb27a20f709c967045ffceafbddf508da4992d6c3edd951778347a02c3a5bb24598f466d1c5ddf8065c68c00b9d018cb117ab7b5e1d870
     HEAD_REF master
 )
 vcpkg_configure_cmake(
