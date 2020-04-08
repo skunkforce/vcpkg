@@ -1,0 +1,4 @@
+Source: osf-tmp
+Version: 1.0.0
+Homepage: https://github.com/skunkforce/tmp
+Description: C++11 Template Metaprogramming library using a tacit style interface
